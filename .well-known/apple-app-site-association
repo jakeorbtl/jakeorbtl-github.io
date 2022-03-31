@@ -3,7 +3,7 @@
     "apps": [],
     "details": [{
       "appID": "F5A4R25QYM.com.chukkertv.ios",
-      "paths": ["*"]
+      "paths": ["/sign-in/*"]
     }]
   }
 }
