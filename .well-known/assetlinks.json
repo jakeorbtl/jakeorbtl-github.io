@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.chukkertv.android",
+        "sha256_cert_fingerprints": [
+            "33:F1:0C:37:A8:C0:D0:A5:0D:98:5A:22:81:65:BA:F7:00:C7:EC:CF:DA:85:A0:6E:BD:81:B9:6A:46:EA:F3:2C"
+        ]
+    }
+}]
